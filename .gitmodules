@@ -1,3 +1,9 @@
 [submodule "libs/hbb_common"]
     path = libs/hbb_common
     url = https://github.com/miro0218/hbb_common
+[submodule "libs/scrap"]
+    path = libs/scrap
+    url = https://github.com/rustdesk/scrap
+[submodule "libs/rustdesk-core"]
+    path = libs/rustdesk-core
+    url = https://github.com/rustdesk/rustdesk-core
